@@ -1,0 +1,8 @@
+p{
+    color:rgb(126, 51, 184);
+    background-color:aqua;
+    text-align: left;
+}
+table,th,td{
+    border:1px dotted black;
+}
